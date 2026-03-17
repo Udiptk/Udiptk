@@ -1,20 +1,7 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   ██╗   ██╗██████╗ ██╗██████╗ ████████╗                  ║
-║   ██║   ██║██╔══██╗██║██╔══██╗╚══██╔══╝                  ║
-║   ██║   ██║██║  ██║██║██████╔╝   ██║                     ║
-║   ██║   ██║██║  ██║██║██╔═══╝    ██║                     ║
-║   ╚██████╔╝██████╔╝██║██║        ██║                     ║
-║    ╚═════╝ ╚═════╝ ╚═╝╚═╝        ╚═╝                     ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-# Udipt Kushwaha
-### CS Student · Cybersecurity Enthusiast · Builder
+<h1>Udipt Kushwaha</h1>
+<h3>CS Student · Cybersecurity Enthusiast · Builder</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Securing+systems%2C+one+vulnerability+at+a+time;CS+%40+MITS+Gwalior;Penetration+Testing+%7C+Ethical+Hacking;Always+learning%2C+always+breaking+things+%F0%9F%94%90)](https://git.io/typing-svg)
 
